@@ -2,7 +2,7 @@
 
 ## **The Future Of This Project**
 
-I have recently just finished my first version of the file hash checker, I have two other updates that will be coming out. My plan for this project will be to have a selection screen that will choose between whether you want to check for a file, an entire directory and a full backup. I will also improve the performance of the speed for checking the hashes and I would like for it to check different hashing algorithms. Currently it only checks SHA256 as that is the most common one.
+I have recently just finished my first version of the file hash checker, I have two other updates that will be coming out. My plan for this project will be to have a selection screen that will choose between whether you want to check for a file, and a file. I will also improve the performance of the speed for checking the hashes and I would like for it to check different hashing algorithms. Currently it only checks SHA256 as that is the most common one.
 
 There is a couple things I would like to touch on before explaining what the code does. 
 
